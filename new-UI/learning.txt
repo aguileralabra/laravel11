@@ -1,0 +1,2 @@
+Install
+composer create laravel/laravel "name"
